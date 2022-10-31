@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aqeel Muhsen</h1>
 <h3 align="center">A Full Stack Web Developer .</h3>
 <img align="right" alt="Coding" width="400" src="https://wallpapercave.com/dwp1x/wp5587066.png">
+
 - 🌱 I’m currently learning to consolidate my knowledge
 
 - 👯 I’m looking to collaborate with other content creators
 
-- 💬 Ask me about **Web Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
