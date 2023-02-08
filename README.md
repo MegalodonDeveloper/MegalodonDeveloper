@@ -18,6 +18,10 @@
 - 📫 How to reach me **albaze7iraq307v@gmail.com**
 
 - ⚡ Fun fact **Perfect Developer**
+ 
+ - Blogs :
+ - https://megalodondeveloper.github.io/Personal-Site-0.1v/
+ - https://megalodondeveloper.github.io/Personal-Site-v0.0/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
