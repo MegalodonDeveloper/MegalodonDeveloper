@@ -19,13 +19,13 @@
 
 - ⚡ Fun fact **Perfect Developer**
  
- - Modern Blogs :
+- Modern Blogs :
  - https://megalodondeveloper.github.io/Personal-Site-0.1v/
  - https://memory-farm.herokuapp.com/
  - https://megalodondeveloper.github.io/How-Old-I-Am/
  
  
-Beginner:
+- Beginner:
  - https://megalodondeveloper.github.io/GYM-Website/
  - https://megalodondeveloper.github.io/Personal-Site-v0.0/
 
