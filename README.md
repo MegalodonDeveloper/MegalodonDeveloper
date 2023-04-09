@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aqeel Muhsen</h1>
-<h3 align="center">A Web Designer .</h3>
+<h3 align="center">A Full Stack Web Developer .</h3>
 <img align="right" width="440px" src="https://wallpapercave.com/wp/wp10456013.jpg"
 ">
  <br>
