@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **albaze7iraq307v@gmail.com**
+- 📫 How to reach me **aqeeltalib526@gmail.com**
 
 - ⚡ Fun fact **Perfect Developer**
  
