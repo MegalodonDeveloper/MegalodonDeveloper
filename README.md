@@ -21,7 +21,7 @@
  
 - Modern Blogs :
  - https://megalodondeveloper.github.io/Personal-Site-0.1v/
- - https://memory-farm.herokuapp.com/
+ - https://megalodondeveloper.github.io/memory-farm/
  - https://megalodondeveloper.github.io/How-Old-I-Am/
  
  
