@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aqeel Muhsen</h1>
-<h3 align="center">A Full Stack Web Developer .</h3>
+<h3 align="center">A Front-End Web Developer .</h3>
 <img align="right" width="440px" src="https://wallpapercave.com/wp/wp10456013.jpg"
 ">
  <br>
@@ -27,7 +27,7 @@
  
 - Beginner:
  - https://megalodondeveloper.github.io/GYM-Website/
- - https://megalodondeveloper.github.io/Personal-Site-v0.0/
+ 
 
 
 <h3 align="left">Connect with me:</h3>
