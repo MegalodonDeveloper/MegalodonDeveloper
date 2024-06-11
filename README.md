@@ -20,6 +20,7 @@
 - ⚡ Fun fact **Perfect Developer**
  
 - Blogs :
+ - https://aqeel-personal-website.netlify.app
  - https://megalodondeveloper.github.io/Personal-Site-0.1v/
  - https://megalodondeveloper.github.io/memory-farm/
  - https://megalodondeveloper.github.io/How-Old-I-Am/
